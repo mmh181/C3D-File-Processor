@@ -53,11 +53,11 @@ def select_csv_files():
 def update_wavelet_family_options(*args):
     #families = pywt.families()
 
-    # Define the desired wavelet families
-    desired_families = ["haar", "db", "sym", "coif", "bior", "rbio", "dmey"]
+    # Define the discrete wavelet families
+    discrete_families = ["haar", "db", "sym", "coif", "bior", "rbio", "dmey"]
     
-    # Get the available wavelet families from pywt that are also in the desired families list
-    families = [family for family in pywt.families() if family in desired_families]
+    # Get the available wavelet families from pywt that are also in the discrete families list
+    families = [family for family in pywt.families() if family in discrete_families]
     
     menu = wavelet_family_optionmenu["menu"]
     menu.delete(0, "end")
