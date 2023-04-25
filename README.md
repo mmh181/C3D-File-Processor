@@ -11,7 +11,7 @@ Once you have Python 3 installed, you will need to install the required librarie
 
 # Usage
 
-To use the C3D File Processor program, run the c3d_file_processor.py script. This will open the GUI.
+To use the C3D File Processor program, run the C3DFileProcessor.py script. This will open the GUI.
 
 1. Click on the “Select C3D Files” button to select the C3D files you want to process.
 
