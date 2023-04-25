@@ -3,7 +3,7 @@
 C3D File Processor is a GUI program written in Python that allows users to process C3D files. The program can apply various filters to the data and convert it to CSV format. Users can also select CSV files to plot the data.
 
 # Installation
-To use the C3D File Processor program, you will need to have Python 3 installed on your computer. You can download Python 3 from the official website.
+To use the C3D File Processor, you will need to have Python 3 installed on your computer. You can download Python 3 from the official website at https://www.python.org/downloads/
 
 Once you have Python 3 installed, you will need to install the required libraries. You can do this by running the following command in your terminal or command prompt:
 
