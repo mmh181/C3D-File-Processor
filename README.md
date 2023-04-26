@@ -1,4 +1,4 @@
-# C3D-File-Processor
+# C3D File Processor
 
 C3D File Processor is a GUI program written in Python that allows users to process C3D files by applying various filters to the data and converting it to CSV format. Users can also select CSV files to plot the data.
 
